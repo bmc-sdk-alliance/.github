@@ -12,9 +12,9 @@
 
 ## 参与方式
 
-1. 阅读 [CONTRIBUTING.md](CONTRIBUTING.md)：分支模型、厂商负责人列表、DCO 签署、二进制哈希校验、漏洞反馈渠道。
+1. 阅读 [CONTRIBUTING.md](/bmc-sdk-alliance/.github/blob/main/CONTRIBUTING.md)：分支模型、厂商负责人列表、DCO 签署、二进制哈希校验、漏洞反馈渠道。
 2. 联系对应厂商团队：`@bmc-sdk-alliance/vendor-a-team`、`@bmc-sdk-alliance/vendor-b-team`（占位名，随厂商确认后调整）。
-3. 提交 PR 时使用统一的 [PULL_REQUEST_TEMPLATE.md](PULL_REQUEST_TEMPLATE.md) 自查清单；所有提交必须包含 `Signed-off-by`。
+3. 提交 PR 时使用统一的 [PULL_REQUEST_TEMPLATE.md](/bmc-sdk-alliance/.github/blob/main/PULL_REQUEST_TEMPLATE.md) 自查清单；所有提交必须包含 `Signed-off-by`。
 
 ## 治理与中立性声明
 
